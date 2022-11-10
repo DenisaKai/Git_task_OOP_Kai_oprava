@@ -1,1 +1,6 @@
 #This is a Dog
+
+class Dog:
+
+    def __init__(self, color):
+        self.color = color
