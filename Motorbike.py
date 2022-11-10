@@ -2,8 +2,9 @@
 
 class Motorbike:
 
-    def __init__(self, name):
+    def __init__(self, name, color):
         self.name = name
+        self.color = color
 
 
 

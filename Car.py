@@ -1,8 +1,8 @@
 #This is a Car
 class Car:
 
-    def __init__(self, name):
+    def __init__(self, name, color):
         self.name = name
-
+        self.color = color
         
 
